@@ -133,3 +133,4 @@ function pickComputerMove() {
 
     return computerMove;
 }
+console.log("Version 2")
